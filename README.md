@@ -1,9 +1,13 @@
 # 과제3
 
 DB 경로 : database-1.cgsqdm8ubkh3.ap-northeast-2.rds.amazonaws.com
+
 Database : mysql
+
 PORT : 3306
+
 user : admin
+
 password : password
 
 ![image](https://user-images.githubusercontent.com/103189961/230875491-2864a115-f0b7-41b3-901a-6a8844eaf6fd.png)
@@ -12,10 +16,12 @@ password : password
 
 (1) product_order 테이블
 
+
 ![image](https://user-images.githubusercontent.com/103189961/230875947-c2c9d4c9-40bf-4227-af5b-dab77188d19f.png)
 
 
 (2) insert 쿼리로 테이블에 데이터를 삽입했습니다.
+
 insert into product_order (date) values 
 
 ('2023-03-04 13:47:11.000')
@@ -55,7 +61,7 @@ insert into product_order (date) values
 ,('2023-04-05 19:46:03.000')
 
 
-
+### 문제
 
 1) 특정 선택일자( 예: 2023년7월7일) 데이터만 선택해서 내림차순으로 보여준다고 할 경우
 의 SQL를 작성해 주세요.
