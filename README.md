@@ -54,12 +54,17 @@ insert into product_order (date) values
 ,('2023-04-05 16:54:33.000')
 ,('2023-04-05 19:46:03.000')
 
+
+
+
 1) 특정 선택일자( 예: 2023년7월7일) 데이터만 선택해서 내림차순으로 보여준다고 할 경우
 의 SQL를 작성해 주세요.
 
 select date  from product_order po where DATE_FORMAT(date, '%Y-%m-%d') = '2023-03-13' order by date desc;
 
 ![image](https://user-images.githubusercontent.com/103189961/230880314-0d2d2185-52ae-419d-93fc-8428d3bca2c0.png)
+
+
 
 2) 금일 날짜의 데이터만 선택하여 오름차순으로 보여야 할 경우의 SQL를 작성해 주세요.
 
