@@ -1,4 +1,4 @@
-* DB 정보
+### * DB 정보
 
 DB 경로 : database-1.cgsqdm8ubkh3.ap-northeast-2.rds.amazonaws.com
 
