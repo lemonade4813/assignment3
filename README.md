@@ -14,7 +14,8 @@ password : password
 
 ### * 사전 진행
 
-(1) product_order 테이블
+(1) product_order 테이블 생성 
+(order DB 내부에 생성)
 
 ![image](https://user-images.githubusercontent.com/103189961/230881247-06328776-d974-44d2-9d5b-9d144afadf45.png)
 
