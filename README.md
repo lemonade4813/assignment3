@@ -16,6 +16,8 @@ password : password
 
 (1) product_order 테이블
 
+![image](https://user-images.githubusercontent.com/103189961/230881247-06328776-d974-44d2-9d5b-9d144afadf45.png)
+
 
 ![image](https://user-images.githubusercontent.com/103189961/230875947-c2c9d4c9-40bf-4227-af5b-dab77188d19f.png)
 
