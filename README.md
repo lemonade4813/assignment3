@@ -79,6 +79,6 @@ select date  from product_order po where DATE_FORMAT(date, '%Y-%m-%d') = '2023-0
 
 select date  from product_order po where DATE_FORMAT(date, '%Y-%m-%d') = CURDATE()  order by date asc;
 
-![image](https://user-images.githubusercontent.com/103189961/230880799-8a5a0ffe-db94-4cf3-b2df-ac8435c0e973.png)
+![image](https://user-images.githubusercontent.com/103189961/230882121-5655a8af-ab77-48b2-8e24-d3b213d91fed.png)
 
 
